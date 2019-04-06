@@ -127,16 +127,6 @@ endif;
 		$instance = wp_parse_args( (array) $instance, $defaults );
 		?>
 
-		<?php
-		include_once ABSPATH . 'wp-admin/includes/plugin.php';
-		if ( ! is_plugin_active( 'bean-portfolio/bean-portfolio.php' ) ) {
-		?>
-			<div class="bean-widget-notification">
-				<p><?php _e( 'Please download & install the <b>Bean Portfolio</b> WordPress plugin to properly display this widget.', 'trim' ); ?><br/>
-				<a href="<?php echo BEAN_PORTFOLIO_PLUGIN_URL; ?>" target="_blank" class="button button-secondary"><?php _e( 'Bean Portfolio &rarr;', 'trim' ); ?></a></p>
-			</div>
-		<?php } ?>
-
 		<p>
 		<label for="<?php echo $this->get_field_id( 'title' ); ?>"><?php _e( 'Title:', 'trim' ); ?></label>
 		<input type="text" class="widefat" id="<?php echo $this->get_field_id( 'title' ); ?>" name="<?php echo $this->get_field_name( 'title' ); ?>" value="<?php echo $instance['title']; ?>" />
