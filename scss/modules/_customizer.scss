@@ -1,0 +1,34 @@
+.customize-partial-edit-shortcuts-shown {
+
+	.header .custom-logo-link {
+		align-items: center;
+		display: flex;
+		justify-content: center;
+		margin-left: -25px;
+		min-width: 40px;
+
+		@media only screen and (max-width: 1160px) {
+			margin-left: 0;
+		}
+
+		.customize-partial-edit-shortcut,
+		.customize-partial-edit-shortcut-button {
+			float: none;
+			position: relative;
+		}
+
+		.customize-partial-edit-shortcut-button {
+			left: -10px;
+		}
+
+		.customize-partial-edit-shortcut {
+			height: auto;
+			left: initial;
+			width: auto;
+		}
+	}
+
+	.mean-nav .customize-partial-edit-shortcut-button {
+		display: none !important;
+	}
+}
