@@ -1,0 +1,92 @@
+body,
+.header,
+.tagcloud a,
+pre, blockquote,
+#reply-title span,
+.subscribe h6 span,
+.comments-title span,
+.social-sharing-divide,
+.single-page .vert-align,
+.page-template-template-portfolio-php .theme_version_fullscreen.footer,
+.page-template-template-portfolio-fullscreen-slider-php .footer-row {
+	background-color: #FFF;
+}
+
+.header .sub-menu {
+     padding: 0 0 8px;
+     margin-top: 5px;
+}
+
+#comments,
+.vert-align,
+#masonry-container article,
+#masonry-container article .no-feat,
+#masonry-container article.format-image,
+.single-portfolio article.portfolio.fullwidth,
+.single-portfolio article.portfolio.fullscreen {
+	background-color: #F4F4F4;
+}
+
+textarea,
+input[type="tel"],
+input[type="url"],
+input[type="text"],
+input[type="date"],
+input[type="time"],
+input[type="email"],
+input[type="number"],
+input[type="search"],
+input[type="password"],
+input[type="datetime"],
+.subscribe .mailbag-wrap input[type="text"],
+.subscribe .mailbag-wrap input[type="email"],
+.subscribe .mailbag-wrap input[type="password"] {
+	background-color: #FFF!important;
+	border-color: #DDD;
+}
+
+textarea:hover,
+input[type="tel"]:hover,
+input[type="url"]:hover,
+input[type="text"]:hover,
+input[type="date"]:hover,
+input[type="time"]:hover,
+input[type="email"]:hover,
+input[type="number"]:hover,
+input[type="search"]:hover,
+input[type="password"]:hover,
+input[type="datetime"]:hover,
+.subscribe .mailbag-wrap input[type="text"]:hover,
+.subscribe .mailbag-wrap input[type="email"]:hover,
+.subscribe .mailbag-wrap input[type="password"]:hover {
+	border-color: #CCC;
+}
+
+textarea:focus,
+input[type="tel"]:focus,
+input[type="url"]:focus,
+input[type="text"]:focus,
+input[type="date"]:focus,
+input[type="time"]:focus,
+input[type="email"]:focus,
+input[type="number"]:focus,
+input[type="search"]:focus,
+input[type="password"]:focus,
+input[type="datetime"]:focus,
+.subscribe .mailbag-wrap input[type="text"]:focus,
+.subscribe .mailbag-wrap input[type="email"]:focus,
+.subscribe .mailbag-wrap input[type="password"]:focus {
+	border-color: #CCC;
+}
+
+#respond,
+#comments,
+.subscribe,
+.single-page-footer,
+.entry-content .wp-playlist-item,
+#masonry-container article .no-feat,
+#masonry-container article.sidebar.post .widget,
+#masonry-container article.single-page.format-audio .entry-content-media.no-img {
+	border-color: #FFF!important;
+	border-width: 1px;
+}

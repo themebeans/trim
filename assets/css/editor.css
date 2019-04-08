@@ -1,0 +1,56 @@
+/*
+Theme Name: Trim
+Description: Used to style the TinyMCE editor.
+*/
+
+@import url(../../style.min.css);
+
+body.wp-autoresize { padding: 20px 25px!important; background: #FFF; }
+
+p, ul, ol, dl, dd, form table, address, fieldset, h1, h2, h3, h4, h5, h6, .gist, .bean-alert {
+	margin-bottom: 20px;
+}
+
+a {
+  border-bottom: 2px solid #F2F2F2;
+  padding-bottom: 2px;
+}
+
+p, li {
+	color: #333;
+}
+
+h1, h2, h3, h4 {
+	font-weight: bold;
+}
+
+ul ul, ul ol, ol li ul, ul li ol, ul li ul, ol li ol {
+	margin: 0 0 20px;
+}
+
+ul {
+	list-style-type: disc;
+}
+
+ol {
+	list-style-type: decimal;
+}
+
+ul, ol {
+	margin: 40px;
+}
+
+ol li ul,
+ul li ol,
+ul li ul,
+ol li ol {
+	margin: 20px 0 20px 20px;
+}
+
+blockquote {
+
+}
+
+pre {
+	margin-left: 0;
+}

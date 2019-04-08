@@ -1,0 +1,250 @@
+body,
+.header,
+.tagcloud a,
+pre, blockquote,
+#reply-title span, 
+.subscribe h6 span, 
+.comments-title span,
+.social-sharing-divide,
+.single-page .vert-align,
+.fancybox-overlay,
+.page-template-template-portfolio-php .theme_version_fullscreen.footer, 
+.page-template-template-portfolio-fullscreen-slider-php .footer-row {
+	background-color: #191B1D;
+}
+
+.theme_style_2 .header, {
+	background-color: #191B1D!important;
+}
+
+.mean-container .mean-bar,
+.mean-container .mean-nav {
+	background-color: #121415;
+}
+
+.mean-container .mean-nav ul li a:hover {
+	background: #191B1D;
+}
+
+.header .sub-menu {
+	background-color: #191B1D;
+	border-color: #292A2C;
+     padding: 0 0 8px;
+     margin-top: 5px;
+}
+
+.header .sf-menu ul ul {
+	border-color: #292A2C;
+}
+
+#comments,
+.vert-align,
+.portfolio-review .inner,
+#masonry-container article,
+#masonry-container article .no-feat,
+#masonry-container article.format-image,
+.single-portfolio article.portfolio.fullwidth, 
+.single-portfolio article.portfolio.fullscreen {
+	background-color: #292A2C;
+}
+
+textarea,		   
+input[type="tel"], 
+input[type="url"], 		   
+input[type="text"], 
+input[type="date"], 
+input[type="time"], 
+input[type="email"], 
+input[type="number"], 
+input[type="search"], 
+input[type="password"], 
+input[type="datetime"],
+.subscribe .mailbag-wrap input[type="text"], 
+.subscribe .mailbag-wrap input[type="email"],
+.subscribe .mailbag-wrap input[type="password"] {	
+	border-radius: 2px;
+	background-color: #FFF!important;
+	border-color: #FFF;
+}
+
+textarea:hover,		   
+input[type="tel"]:hover, 
+input[type="url"]:hover, 		   
+input[type="text"]:hover, 
+input[type="date"]:hover, 
+input[type="time"]:hover, 
+input[type="email"]:hover, 
+input[type="number"]:hover, 
+input[type="search"]:hover, 
+input[type="password"]:hover, 
+input[type="datetime"]:hover,
+.subscribe .mailbag-wrap input[type="text"]:hover, 
+.subscribe .mailbag-wrap input[type="email"]:hover,
+.subscribe .mailbag-wrap input[type="password"]:hover {
+	border-color: #FFF;
+}
+
+textarea:focus,		   
+input[type="tel"]:focus, 
+input[type="url"]:focus, 		   
+input[type="text"]:focus, 
+input[type="date"]:focus, 
+input[type="time"]:focus, 
+input[type="email"]:focus, 
+input[type="number"]:focus, 
+input[type="search"]:focus, 
+input[type="password"]:focus, 
+input[type="datetime"]:focus,
+.subscribe .mailbag-wrap input[type="text"]:focus, 
+.subscribe .mailbag-wrap input[type="email"]:focus,
+.subscribe .mailbag-wrap input[type="password"]:focus {
+	border-color: #FFF;
+}
+
+#respond,
+#comments,
+.subscribe,
+.single-page-footer,
+.entry-content .wp-playlist-item,
+#masonry-container article .no-feat,
+#masonry-container article.sidebar.post .widget,
+#masonry-container article.single-page.format-audio .entry-content-media.no-img {
+	border-color: #191B1D!important;
+	border-width: 1px;
+}
+
+.widget a, .entry-content a {
+	border-color: #2C2D32!important;
+}
+
+body, p {
+	color: #727379; 
+}
+
+pre,
+label,
+cite a,
+form label,
+input:focus,
+.bean-tabs a,
+h1, h2, h3, h4,
+textarea:focus,
+h4.entry-title a,
+.pinglist a:hover,
+#wp-calendar caption,
+.logged-in-as a:hover,
+.bean-panel-title > a,
+.portfolio-review,
+.header .site-description,
+.bean-tabs > li.active > a,
+.recent-post-tabs > li > a:hover,
+.single-page .vert-align:hover p,
+.single-page .vert-align:hover h2,
+.archive-head .vert-align:hover h2,
+.fancybox-title-float-wrap .child, 
+.single-page .vert-align:hover span, 
+#masonry-container article.single-page,
+.gform_wrapper .top_label .gfield_label,
+#masonry-container article.sidebar.post,
+#masonry-container article.single-page p,
+.bean-pricing-table .pricing-column li.info:hover,
+.entry-content .wp-playlist-item .wp-playlist-caption,
+.header, .footer, .header a, .footer a, .header .sub-menu li a, .header .sub-menu li.current-menu-item a, #mobile-filter li a { 
+	color: #A9AAAF; 
+}
+
+h6,
+.tabs,
+.subtext, 
+.published a,
+#reviews .meta,
+.form-row label,
+.commentmetadata a,
+.widget span.reviewer,
+.inner .entry-meta li,
+.inner .entry-meta li a,
+.format-aside.single-page a,
+article.single-page .vert-align:hover span, 
+.widget ul.product_list_widget li .amount,
+.widget ul.product_list_widget li .quantity,
+#masonry-container article.single-page p.logged-in-as {
+	color: #55565A;
+}
+
+h1,
+h2,
+h1 a, 
+h2 a,
+h3 a,
+h4 a,
+#filter li a {
+	color: #FFF!important; 
+}
+
+.btn, 
+.button,     
+.btn[type="submit"],
+input[type="reset"], 
+input[type="button"],
+input[type="submit"],
+.button[type="submit"],
+.products li a.added_to_cart,
+article.sidebar .widget_bean_cta .bean-cta,
+#masonry-container article.widget_bean_cta .inner,
+.hidden-sidebar .widget .tagcloud a {
+	background-color: #191B1D;
+}
+
+#place_order:hover,
+.bean-pricing-table .table-mast, 
+.bean-pricing-table .table-mast:hover,
+.single_add_to_cart_button.button:hover,
+.widget .buttons .checkout.button:hover,
+.mailbag-wrap input[type="submit"]:hover,
+.side-menu .sidebar-btn .menu-icon:hover,
+input[type=submit].edd-submit.button:hover { 
+	background-color: #151718!important; 
+}
+
+.social-sharing li a {
+	background-color: #191B1D;
+}
+
+#nav-toggle span:before, 
+#nav-toggle span:after,
+#filter-toggle span:before, 
+#filter-toggle span:after {
+	background-color: #FFF;
+}
+
+#filter-toggle span.filter-circle,
+#filter-toggle span.filter-circle2,
+#filter-toggle span.filter-circle:after {
+	background-color: #191B1D;
+	border-color: #FFF;
+}
+
+.hidden-sidebar {
+	background-color: #111;
+	background-color: rgba(10, 9, 9, 0.98);
+}
+
+#portfolio-filter {
+	background-color: rgba(10, 9, 9, 0.9);
+}
+
+.sidebar-close:hover {
+	background-color: #000;
+}
+
+#filter li a {
+	border-bottom-color: #202020;
+}
+
+#filter li a:hover {
+	color: #2C2D32!important;
+}
+
+#mobile-filter li a {
+	border-color: #353535;
+}
